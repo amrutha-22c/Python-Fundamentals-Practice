@@ -72,7 +72,7 @@ print("After:", s6.name)
 
 
 
-# 7. Real-world example (Car)
+# 7. example
 class Car:
     def __init__(self, brand, color):
         self.brand = brand

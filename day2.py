@@ -10,13 +10,13 @@ else:
     print("Greatest is:", c)
     
  # celsius to fahrenheit
- celsius = float(input("Enter temperature in Celsius: "))
- fahrenheit = (celsius * 9/5) + 32
- print("Temperature in Fahrenheit:", fahrenheit)
+celsius = float(input("Enter temperature in Celsius: "))
+fahrenheit = (celsius * 9/5) + 32
+print("Temperature in Fahrenheit:", fahrenheit)
  
  #simple Interest
- p = float(input("Enter principal amount: "))
- r = float(input("Enter rate of interest: "))
- t = float(input("Enter time in years: "))
-    si = (p * r * t) / 100
-    print("Simple Interest:", si)
+p = float(input("Enter principal amount: "))
+r = float(input("Enter rate of interest: "))
+t = float(input("Enter time in years: "))
+si = (p * r * t) / 100
+print("Simple Interest:", si)
